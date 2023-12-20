@@ -53,6 +53,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun  unitConverter (){
     Column (
+
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
